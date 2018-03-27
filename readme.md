@@ -16,6 +16,8 @@
 - Grayscale
 - Saturation
 
+![image](https://user-images.githubusercontent.com/30607043/37958663-729d61dc-3187-11e8-916c-477ba59e9d28.png)
+
 ## Instalación
 
 - Usuario debe iniciar su proyecto con el siguiente comando:
