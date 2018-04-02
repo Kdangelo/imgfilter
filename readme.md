@@ -54,11 +54,13 @@ Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
 ## Demo
 ![Demo](assets/demo/images/gif-imgFilter.gif)
 
+## Desarrollado para
+Laboratoria
+
 ## Colaboradoras
 
 :wink: [Katherine Dangelo](https://github.com/Kdangelo),
 :relaxed: [Katherine Ramirez](https://github.com/katherineRamirez),
 :smile: [Carolina Saavedra](https://github.com/saahub)
 
-## Desarrollado para
-Laboratoria
+
