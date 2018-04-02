@@ -1,3 +1,5 @@
+# Image Filter
+
 <p align="center">
   <img src="assets/demo/images/logo.png"/>
 </p>
@@ -57,3 +59,6 @@ Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
 :wink: [Katherine Dangelo](https://github.com/Kdangelo),
 :relaxed: [Katherine Ramirez](https://github.com/katherineRamirez),
 :smile: [Carolina Saavedra](https://github.com/saahub)
+
+## Desarrollado para
+Laboratoria
